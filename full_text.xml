@@ -1,0 +1,1892 @@
+<?xml version="1.0" encoding="UTF-8"?><full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1001841721004824</prism:url><dc:identifier>doi:10.1016/j.cclet.2021.06.082</dc:identifier><eid>1-s2.0-S1001841721004824</eid><prism:doi>10.1016/j.cclet.2021.06.082</prism:doi><pii>S1001-8417(21)00482-4</pii><dc:title>Boosted activity of Cu/SiO2 catalyst for furfural hydrogenation by freeze drying </dc:title><prism:publicationName>Chinese Chemical Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>10018417</prism:issn><dc:format>application/xml</dc:format><prism:coverDate>2021-07-07</prism:coverDate><prism:coverDisplayDate>Available online 7 July 2021</prism:coverDisplayDate><prism:copyright>© 2021 Published by Elsevier B.V. on behalf of Chinese Chemical Society and Institute of Materia Medica, Chinese Academy of Medical Sciences.</prism:copyright><prism:publisher>Published by Elsevier B.V. on behalf of Chinese Chemical Society and Institute of Materia Medica, Chinese Academy of Medical Sciences.</prism:publisher><dc:creator>Du, Hong</dc:creator><dc:creator>Ma, Xiuyun</dc:creator><dc:creator>Jiang, Miao</dc:creator><dc:creator>Zhang, Z. Conrad</dc:creator><dc:description>
+                  The biomass valorization is of great importance as an alternative for the production of transport fuels and fine chemicals. Furfural hydrogenation to furfuryl alcohol is a prevailing industrial route for the utilization of hemicellulose component of biomass. The toxicity of the chromium species in commercial copper chromite catalyst for furfuryl alcohol production motivates the development of efficient chromium-free catalyst. Thus, a highly efficient silica supported copper catalyst is developed in this study. The catalyst is prepared by freeze drying of a gel precursor that is synthesized by ammonia evaporation, followed by calcination and H2 reduction. The catalyst exhibits higher furfural hydrogenation activity than oven dried catalyst, commercial copper chromite catalyst and a plant supplied commercial silica supported copper catalyst. The catalyst also shows good stability. The superior performance of the freeze dried catalyst has resulted from its developed pore structure and higher amount of Cu0 as well as Cu+ active sites.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Freeze drying</dcterms:subject><dcterms:subject>Cu/SiO2
+                  </dcterms:subject><dcterms:subject>Furfural</dcterms:subject><dcterms:subject>Furfuryl alcohol</dcterms:subject><dcterms:subject>Hydrogenation</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1001841721004824" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1001841721004824" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="659" height="464" size="79120">https://api.elsevier.com/content/object/eid/1-s2.0-S1001841721004824-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="659" height="471" size="71437">https://api.elsevier.com/content/object/eid/1-s2.0-S1001841721004824-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="301" height="155" size="12791">https://api.elsevier.com/content/object/eid/1-s2.0-S1001841721004824-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="154" size="10636">https://api.elsevier.com/content/object/eid/1-s2.0-S1001841721004824-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="157" size="15182">https://api.elsevier.com/content/object/eid/1-s2.0-S1001841721004824-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="113" size="7357">https://api.elsevier.com/content/object/eid/1-s2.0-S1001841721004824-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2916" height="2054" size="625494">https://api.elsevier.com/content/object/eid/1-s2.0-S1001841721004824-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2917" height="2086" size="678059">https://api.elsevier.com/content/object/eid/1-s2.0-S1001841721004824-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1333" height="686" size="94229">https://api.elsevier.com/content/object/eid/1-s2.0-S1001841721004824-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="922344">https://api.elsevier.com/content/object/eid/1-s2.0-S1001841721004824-mmc1.docx?httpAccept=%2A%2F%2A</object></objects><scopus-id>85113407867</scopus-id><scopus-eid>2-s2.0-85113407867</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85113407867" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>273593</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291802</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chinese Chemical Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>CHINESECHEMICALLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210707">2021-07-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210707">2021-07-07</xocs:available-online-date>
+      <xocs:ew-transaction-id>2021-08-23T11:39:52</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1001841721004824</xocs:eid>
+      <xocs:pii-formatted>S1001-8417(21)00482-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1001841721004824</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.cclet.2021.06.082</xocs:doi>
+      <xocs:item-stage>S200</xocs:item-stage>
+      <xocs:item-version-number>S200.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:timestamp yyyymmdd="20210823">2021-08-23T11:02:52.813893Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20210707</xocs:date-search-begin>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1625673757">2021-07-07T16:02:37.838724Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment aiptxt articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings tomb webpdf webpdfpagecount yearnav figure table e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast orcid primabst pubtype ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1001-8417</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>10018417</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:aip-text>In Press, Corrected Proof</xocs:aip-text>
+      <xocs:sort-order>0</xocs:sort-order>
+      <xocs:cover-date-text>Available online 7 July 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-07-07</xocs:cover-date-start>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 Published by Elsevier B.V. on behalf of Chinese Chemical Society and Institute of Materia Medica, Chinese Academy of Medical Sciences.</xocs:copyright-line>
+      <xocs:normalized-article-title>BOOSTEDACTIVITYCUSIO2CATALYSTFORFURFURALHYDROGENATIONBYFREEZEDRYING</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>DU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary materials</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0001">
+            <xocs:ref-normalized-surname>DU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>119837</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0002">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3092</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3100</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0003">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>663</xocs:ref-first-fp>
+            <xocs:ref-last-lp>676</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0004">
+            <xocs:ref-normalized-surname>GONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1617</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1620</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>796</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0006">
+            <xocs:ref-normalized-surname>MARISCAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1144</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1189</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0007">
+            <xocs:ref-normalized-surname>SINGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>111339</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0008">
+            <xocs:ref-normalized-surname>NAKAGAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2655</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2668</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0009">
+            <xocs:ref-normalized-surname>THONGRATKAEW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>177</xocs:ref-first-fp>
+            <xocs:ref-last-lp>188</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>DU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>117598</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0011">
+            <xocs:ref-normalized-surname>DU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2019</xocs:ref-pub-year>
+            <xocs:ref-first-fp>221</xocs:ref-first-fp>
+            <xocs:ref-last-lp>231</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0012">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>59</xocs:ref-first-fp>
+            <xocs:ref-last-lp>69</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0013">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4255</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4259</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0014">
+            <xocs:ref-normalized-surname>DONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>767</xocs:ref-first-fp>
+            <xocs:ref-last-lp>779</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>12096</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12103</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0016">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>759</xocs:ref-first-fp>
+            <xocs:ref-last-lp>768</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0017">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-first-fp>254</xocs:ref-first-fp>
+            <xocs:ref-last-lp>263</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0018">
+            <xocs:ref-normalized-surname>ZHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2738</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2749</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0019">
+            <xocs:ref-normalized-surname>DU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-first-fp>265</xocs:ref-first-fp>
+            <xocs:ref-last-lp>273</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2020</xocs:ref-pub-year>
+            <xocs:ref-article-number>119109</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0021">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25185</xocs:ref-first-fp>
+            <xocs:ref-last-lp>25190</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0022">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>120083</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0023">
+            <xocs:ref-normalized-surname>ZHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13758</xocs:ref-first-fp>
+            <xocs:ref-last-lp>13766</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0024">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1150</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1154</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11023</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11117</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0026">
+            <xocs:ref-normalized-surname>YE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2018</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3428</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3449</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0027">
+            <xocs:ref-normalized-surname>HAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2021</xocs:ref-pub-year>
+            <xocs:ref-article-number>106266</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys/>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 Published by Elsevier B.V. on behalf of Chinese Chemical Society and Institute of Materia Medica, Chinese Academy of Medical Sciences.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-07-07T08:08:50.406Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Dalian Young Star of Science and Technology Project</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2020RQ023</xocs:funding-id>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Natural Science Foundation of China</xocs:funding-agency-matched-string>
+            <xocs:funding-id>21721004</xocs:funding-id>
+            <xocs:funding-id>21808217</xocs:funding-id>
+            <xocs:funding-id>21932005</xocs:funding-id>
+            <xocs:funding-agency-acronym>NSFC</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Natural Science Foundation of China</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100001809</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Dalian Institute of Chemical Physics</xocs:funding-agency-matched-string>
+            <xocs:funding-id>DICP ZZBS201812</xocs:funding-id>
+            <xocs:funding-id>DICPI201936</xocs:funding-id>
+            <xocs:funding-agency-acronym>DICP</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Dalian Institute of Chemical Physics</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100002979</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Natural Science Foundation of Liaoning Province</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2020-MS-018</xocs:funding-id>
+            <xocs:funding-agency>Natural Science Foundation of Liaoning Province</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100005047</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This work was supported by the National Natural Science Foundation of China (Nos. 21721004, 21808217, 21932005), Natural Science Foundation of Liaoning Province (No. 2020-MS-018), Dalian Young Star of Science and Technology Project (No. 2020RQ023) and Dalian Institute of Chemical Physics (Nos. DICP ZZBS201812, DICPI201936). </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1001-8417(21)00482-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1001841721004824</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1001841721004824</xocs:eid>
+         <xocs:doi>10.1016/j.cclet.2021.06.082</xocs:doi>
+         <xocs:cid>273593</xocs:cid>
+         <xocs:timestamp>2021-08-23T11:02:52.813893Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-07-07</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1001841721004824-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1001841721004824/MAIN/application/pdf/7af0d987ea4cddc198ab942a1405cf8e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>949030</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1001841721004824-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1001841721004824/PREVIEW/image/png/756f3c1e38a9ca46d28b842d1f8d6730/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>73609</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1001841721004824-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1001841721004824/gr1/DOWNSAMPLED/image/jpeg/2766d8f32a3f79511ea34f0e0fc056cb/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>79120</xocs:filesize>
+               <xocs:pixel-height>464</xocs:pixel-height>
+               <xocs:pixel-width>659</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1001841721004824-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1001841721004824/gr2/DOWNSAMPLED/image/jpeg/25700f8376894c41b1962c5305d5c295/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>71437</xocs:filesize>
+               <xocs:pixel-height>471</xocs:pixel-height>
+               <xocs:pixel-width>659</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1001841721004824-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1001841721004824/fx1/DOWNSAMPLED/image/jpeg/12cdd1e07da461c2f55994ea56814155/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>12791</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>301</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1001841721004824-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1001841721004824/gr1/THUMBNAIL/image/gif/aa2282a8e46c69fb72de4ee7bb7e5eea/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10636</xocs:filesize>
+               <xocs:pixel-height>154</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1001841721004824-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1001841721004824/gr2/THUMBNAIL/image/gif/d2ad7a1929dc213b73b178a63611b2f4/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15182</xocs:filesize>
+               <xocs:pixel-height>157</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1001841721004824-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1001841721004824/fx1/THUMBNAIL/image/gif/1e1767c1166eff9ac8aec054511e1452/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7357</xocs:filesize>
+               <xocs:pixel-height>113</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1001841721004824-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1001841721004824/gr1/HIGHRES/image/jpeg/ed5eee6f01772debe0622934336d51f8/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>625494</xocs:filesize>
+               <xocs:pixel-height>2054</xocs:pixel-height>
+               <xocs:pixel-width>2916</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1001841721004824-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1001841721004824/gr2/HIGHRES/image/jpeg/31f7a0be30b3d1403784206df20f2d5d/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>678059</xocs:filesize>
+               <xocs:pixel-height>2086</xocs:pixel-height>
+               <xocs:pixel-width>2917</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1001841721004824-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1001841721004824/fx1/HIGHRES/image/jpeg/8070417b26f2d671f85132d9c9026908/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>94229</xocs:filesize>
+               <xocs:pixel-height>686</xocs:pixel-height>
+               <xocs:pixel-width>1333</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1001841721004824-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1001841721004824/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/3eb5fe88b47ed4a3806c4e539199cff7/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>922344</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="sco" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>CCLET</jid>
+            <aid>6499</aid>
+            <ce:pii>S1001-8417(21)00482-4</ce:pii>
+            <ce:doi>10.1016/j.cclet.2021.06.082</ce:doi>
+            <ce:copyright type="unknown" year="2021"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig0001">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0001">
+                  <ce:simple-para id="spara001" view="all">(a) FF hydrogenation chart. (b) Catalytic performance of Cu/SiO<ce:inf loc="post">2</ce:inf>-FD catalyst and reference catalysts at different reaction temperature (0.05 g catalyst, 2 g FF and 30 mL 1,4-dioxane, 4 MPa H<ce:inf loc="post">2</ce:inf>, 600 rpm, 1 h). (c) Catalytic performance of Cu/SiO<ce:inf loc="post">2</ce:inf>-FD and Cu/SiO<ce:inf loc="post">2</ce:inf> at different reaction time (0.05 g catalyst, 2 g FF and 30 mL 1,4 dioxane, 100 °C, 4 MPa H<ce:inf loc="post">2</ce:inf>, 600 rpm). (d) Stability test of Cu/SiO<ce:inf loc="post">2</ce:inf>-FD using trickle bed reactor (120 °C, 4 MPa H<ce:inf loc="post">2</ce:inf>, 2 g FF-1,4-dioxane/g-catalyst/h, H<ce:inf loc="post">2</ce:inf>/FF = 40).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0001" role="short">Fig 1</ce:alt-text>
+               <ce:link id="celink0001" locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1001841721004824/gr1"/>
+            </ce:figure>
+            <ce:figure id="fig0002">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0002">
+                  <ce:simple-para id="spara002" view="all">(a) XRD patterns of freshly reduced samples. (b) H<ce:inf loc="post">2</ce:inf>-TPR profiles of calcined samples. TEM images of fresh samples for Cu/SiO<ce:inf loc="post">2</ce:inf> (c) and Cu/SiO<ce:inf loc="post">2</ce:inf>-FD (d).</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0002" role="short">Fig 2</ce:alt-text>
+               <ce:link id="celink0002" locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1001841721004824/gr2"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0001" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0003">
+                  <ce:simple-para id="spara003" view="all">Textural properties of the copper catalysts.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0003" role="short">Table 1</ce:alt-text>
+               <tgroup cols="8">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <colspec colnum="3" colname="col3" align="left"/>
+                  <colspec colnum="4" colname="col4" align="left"/>
+                  <colspec colnum="5" colname="col5" align="left"/>
+                  <colspec colnum="6" colname="col6" align="left"/>
+                  <colspec colnum="7" colname="col7" align="left"/>
+                  <colspec colnum="8" colname="col8" align="left"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0001" colname="col1" morerows="1" align="left" valign="top" rowsep="1" role="rowgroup">Sample</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0002" colname="col2" morerows="1" align="left" valign="top" rowsep="1" role="rowgroup">Cu loading<cross-ref id="crf0048" refid="tb1fn1">
+                              <sup loc="post">a</sup>
+                           </cross-ref> (wt%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0003" rowsep="1" align="left" valign="top" role="colgroup" namest="col3" nameend="col5">Calcined sample<cross-ref id="crf0049" refid="tb1fn2">
+                              <sup loc="post">b</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0004" rowsep="1" align="left" valign="top" role="colgroup" namest="col6" nameend="col8">Fresh sample<cross-ref id="crf0050" refid="tb1fn3">
+                              <sup loc="post">c</sup>
+                           </cross-ref>
+                        </entry>
+                     </row>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0007" colname="col3" valign="top">
+                           <italic>S</italic>
+                           <inf loc="post">BET</inf> (m<sup loc="post">2</sup>/g)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0008" colname="col4" valign="top">
+                           <italic>V</italic>
+                           <inf loc="post">p</inf> (cm<sup loc="post">3</sup>/g)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0009" colname="col5" valign="top">
+                           <italic>D</italic>
+                           <inf loc="post">p</inf> (nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0010" colname="col6" valign="top">
+                           <italic>S</italic>
+                           <inf loc="post">BET</inf> (m<sup loc="post">2</sup>/g)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0011" colname="col7" valign="top">
+                           <italic>V</italic>
+                           <inf loc="post">p</inf> (cm<sup loc="post">3</sup>/g)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0012" colname="col8" valign="top">
+                           <italic>D</italic>
+                           <inf loc="post">p</inf> (nm)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0013" colname="col1" valign="top">SiO<inf loc="post">2</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0014" colname="col2" valign="top">-</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0015" colname="col3" valign="top">190</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0016" colname="col4" valign="top">0.46</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0017" colname="col5" valign="top">9.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0018" colname="col6" valign="top">190</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0019" colname="col7" valign="top">0.46</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0020" colname="col8" valign="top">9.4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0021" colname="col1" valign="top">Cu/SiO<inf loc="post">2</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0022" colname="col2" valign="top">17.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0023" colname="col3" valign="top">416</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0024" colname="col4" valign="top">0.82</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0025" colname="col5" valign="top">6.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0026" colname="col6" valign="top">361</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0027" colname="col7" valign="top">0.73</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0028" colname="col8" valign="top">7.6</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0029" colname="col1" valign="top">Cu/SiO<inf loc="post">2</inf>-FD</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0030" colname="col2" valign="top">17.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0031" colname="col3" valign="top">449</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0032" colname="col4" valign="top">1.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0033" colname="col5" valign="top">14.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0034" colname="col6" valign="top">362</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0035" colname="col7" valign="top">1.48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0036" colname="col8" valign="top">16.0</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tb1fn1">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="notep0001" view="all">Determined by ICP-OES.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tb1fn2">
+                  <ce:label>b</ce:label>
+                  <ce:note-para id="notep0002" view="all">Textural parameters of calcined samples determined using the N<ce:inf loc="post">2</ce:inf>-physisorption.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tb1fn3">
+                  <ce:label>c</ce:label>
+                  <ce:note-para id="notep0003" view="all">Textural parameters of fresh samples determined using the N<ce:inf loc="post">2</ce:inf>-physisorption. The fresh sample was derived from the reduction of calcined sample. The detailed information is described in Supporting information.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl0002" rowsep="0" colsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0004">
+                  <ce:simple-para id="spara004" view="all">Physicochemical properties of the copper catalysts.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="alt0004" role="short">Table 2</ce:alt-text>
+               <tgroup cols="6">
+                  <colspec colnum="1" colname="col1" align="left"/>
+                  <colspec colnum="2" colname="col2" align="left"/>
+                  <colspec colnum="3" colname="col3" align="left"/>
+                  <colspec colnum="4" colname="col4" align="left"/>
+                  <colspec colnum="5" colname="col5" align="left"/>
+                  <colspec colnum="6" colname="col6" align="left"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0037" colname="col1" valign="top">Catalyst</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0038" colname="col2" valign="top">
+                           <italic>D</italic>
+                           <inf loc="post">Cu</inf>
+                           <cross-ref id="crf0051" refid="tb2fn1">
+                              <sup loc="post">a</sup>
+                           </cross-ref>(%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0039" colname="col3" valign="top">
+                           <italic>S</italic>
+                           <inf loc="post">Cu</inf>
+                           <cross-ref id="crf0052" refid="tb2fn1">
+                              <sup loc="post">a</sup>
+                           </cross-ref>(m<sup loc="post">2</sup>/g)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0040" colname="col4" valign="top">
+                           <italic>d</italic>
+                           <inf loc="post">Cu</inf>
+                           <cross-ref id="crf0053" refid="tb2fn1">
+                              <sup loc="post">a</sup>
+                           </cross-ref>(nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0041" colname="col5" valign="top">
+                           <italic>d</italic>
+                           <inf loc="post">Cu</inf>
+                           <cross-ref id="crf0054" refid="tb2fn2">
+                              <sup loc="post">b</sup>
+                           </cross-ref>(nm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0042" colname="col6" valign="top">
+                           <italic>S</italic>
+                           <inf loc="post">Cu<sup loc="post">+</sup>
+                           </inf>
+                           <cross-ref id="crf0055" refid="tb2fn3">
+                              <sup loc="post">c</sup>
+                           </cross-ref>(m<inf loc="post">2</inf>/g)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0043" colname="col1" valign="top">Cu/SiO<inf loc="post">2</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0044" colname="col2" valign="top">28.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0045" colname="col3" valign="top">31.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0046" colname="col4" valign="top">3.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0047" colname="col5" valign="top">4.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0048" colname="col6" valign="top">63.6</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0049" colname="col1" valign="top">Cu/SiO<inf loc="post">2</inf>-FD</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0050" colname="col2" valign="top">43.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0051" colname="col3" valign="top">48.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0052" colname="col4" valign="top">2.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0053" colname="col5" valign="top">3.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" id="en0054" colname="col6" valign="top">78.6</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tb2fn1">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="notep0004" view="all">Copper dispersion, exposed metallic copper surface area and copper particle size were determined using N<ce:inf loc="post">2</ce:inf>O-titration.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tb2fn2">
+                  <ce:label>b</ce:label>
+                  <ce:note-para id="notep0005" view="all">Average Cu particle size was calculated using the Scherrer equation.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tb2fn3">
+                  <ce:label>c</ce:label>
+                  <ce:note-para id="notep0006" view="all">Exposed Cu<ce:sup loc="post">+</ce:sup> surface area was determined by N<ce:inf loc="post">2</ce:inf>O titration and <ce:italic>in-situ</ce:italic> XPS.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dchd0001">
+               <ce:textfn id="dhtxt0001">Communication</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tte0002">Boosted activity of Cu/SiO<ce:inf loc="post">2</ce:inf> catalyst for furfural hydrogenation by freeze drying</ce:title>
+            <ce:author-group id="aut0001">
+               <ce:author id="au0001" author-id="S1001841721004824-3d6a13757d74ce50d125094c186205dc" orcid="0000-0003-1805-8692">
+                  <ce:given-name>Hong</ce:given-name>
+                  <ce:surname>Du</ce:surname>
+                  <ce:cross-ref id="crf0001" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0002" author-id="S1001841721004824-b607abe0fe7f74b852109fe016ad84a4">
+                  <ce:given-name>Xiuyun</ce:given-name>
+                  <ce:surname>Ma</ce:surname>
+                  <ce:cross-ref id="crf0002" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0003" author-id="S1001841721004824-bddb43c2c753c081fbf1cf23e8c3592d">
+                  <ce:given-name>Miao</ce:given-name>
+                  <ce:surname>Jiang</ce:surname>
+                  <ce:cross-ref id="crf0003" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0004" author-id="S1001841721004824-8b994d68472d6000b66b7173a315b1e1">
+                  <ce:given-name>Z. Conrad</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref id="crf0004" refid="aff0001">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0005" refid="aff0002">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0006" refid="cor0001">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0001" affiliation-id="S1001841721004824-332406eca1ffabbbbd64be50c31c03ad">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="cetextfn0001">Dalian National Laboratory for Clean Energy, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Dalian National Laboratory for Clean Energy</sa:organization>
+                     <sa:organization>Dalian Institute of Chemical Physics</sa:organization>
+                     <sa:organization>Chinese Academy of Sciences</sa:organization>
+                     <sa:city>Dalian</sa:city>
+                     <sa:postal-code>116023</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0001">aDalian National Laboratory for Clean Energy, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0002" affiliation-id="S1001841721004824-8f1e1f1a125fc180f75121b5e3457ac9">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="cetextfn0002">State Key Laboratory of Catalysis, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>State Key Laboratory of Catalysis</sa:organization>
+                     <sa:organization>Dalian Institute of Chemical Physics, Chinese Academy of Sciences</sa:organization>
+                     <sa:city>Dalian</sa:city>
+                     <sa:postal-code>116023</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="staff0002">bState Key Laboratory of Catalysis, Dalian Institute of Chemical Physics, Chinese Academy of Sciences, Dalian 116023, China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cor0001">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="cetext0001">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="9" month="4" year="2021"/>
+            <ce:date-revised day="25" month="5" year="2021"/>
+            <ce:date-accepted day="28" month="6" year="2021"/>
+            <ce:abstract id="abs0001" view="all" class="author"><ce:abstract-sec id="abss0001" view="all">
+                  <ce:simple-para id="spara005" view="all">The biomass valorization is of great importance as an alternative for the production of transport fuels and fine chemicals. Furfural hydrogenation to furfuryl alcohol is a prevailing industrial route for the utilization of hemicellulose component of biomass. The toxicity of the chromium species in commercial copper chromite catalyst for furfuryl alcohol production motivates the development of efficient chromium-free catalyst. Thus, a highly efficient silica supported copper catalyst is developed in this study. The catalyst is prepared by freeze drying of a gel precursor that is synthesized by ammonia evaporation, followed by calcination and H<ce:inf loc="post">2</ce:inf> reduction. The catalyst exhibits higher furfural hydrogenation activity than oven dried catalyst, commercial copper chromite catalyst and a plant supplied commercial silica supported copper catalyst. The catalyst also shows good stability. The superior performance of the freeze dried catalyst has resulted from its developed pore structure and higher amount of Cu<ce:sup loc="post">0</ce:sup> as well as Cu<ce:sup loc="post">+</ce:sup> active sites.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract id="abs0003a" class="graphical" view="all">
+               <ce:section-title id="cesectitle0003a">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="abss0003a" view="all">
+                  <ce:simple-para id="spara009a" view="all">
+                     <ce:display>
+                        <ce:figure id="fig0003">
+                           <ce:alt-text id="alttx001a" role="short">Image, graphical abstract</ce:alt-text>
+                           <ce:link id="celink0007a" locator="fx1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S1001841721004824/fx1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="keys0001" view="all" class="keyword">
+               <ce:section-title id="cesectitle0002">Keywords</ce:section-title>
+               <ce:keyword id="key0001">
+                  <ce:text id="cetext0002">Freeze drying</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0002">
+                  <ce:text id="cetext0003">Cu/SiO<ce:inf loc="post">2</ce:inf>
+                  </ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0003">
+                  <ce:text id="cetext0004">Furfural</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0004">
+                  <ce:text id="cetext0005">Furfuryl alcohol</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0005">
+                  <ce:text id="cetext0006">Hydrogenation</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="para0001" view="all">The rapid consumption of fossil resources and carbon emission derived environmental issues motivate the application of renewable resources. Biomass is a kind of abundant and renewable carbon containing material. The utilization of biomass is an alternative for the production of transport fuels and fine chemicals [<ce:cross-ref id="crf0007" refid="bib0001">1</ce:cross-ref>,<ce:cross-ref id="crf0008" refid="bib0002">2</ce:cross-ref>]. Furfural (FF) production from biomass by acid-catalyzed dehydration of xylose is a major commercial process for the biomass valorization. As summarized in <ce:cross-ref id="crf0009" refid="fig0001">Fig. 1</ce:cross-ref>
+                  <ce:float-anchor refid="fig0001"/>a, FF is used for the manufacture of furfuryl alcohol (FA), 2-methylfuran (MF), tetrahydrofurfuryl alcohol (THFA), 2-methyltetrahydrofuran (MTHF) and so on [<ce:cross-ref id="crf0010" refid="bib0003">3</ce:cross-ref>,<ce:cross-ref id="crf0011" refid="bib0004">4</ce:cross-ref>]. FA is widely used as a raw material for the production of foundry resins, plastics, synthetic fibers and other fine chemicals <ce:cross-ref id="crf0012" refid="bib0005">[5]</ce:cross-ref>. Due to the extensive applications, FA production accounts for more than 65% of FF produced <ce:cross-ref id="crf0013" refid="bib0006">[6]</ce:cross-ref>. Thus, hydrogenation of FF to FA is one of the most valuable and practical routes.</ce:para>
+               <ce:para id="para0002" view="all">Copper chromite is a commonly used commercial catalyst for the catalytic conversion of FF to FA <ce:cross-ref id="crf0014" refid="bib0007">[7]</ce:cross-ref>. The toxic chromium species is harmful to humans and the environment. Thus, the development of chromium-free catalyst attracts vast attention both from academia and industry. Several non-chromium catalysts have been developed for both gas phase and liquid phase hydrogenation processes, such as Ru, Pd, Pt, Cu, Ni and so forth [<ce:cross-ref id="crf0015" refid="bib0008">8</ce:cross-ref>,<ce:cross-ref id="crf0016" refid="bib0009">9</ce:cross-ref>]. The copper based catalyst has been considered as the most promising for industrial application <ce:cross-ref id="crf0017" refid="bib0010">[10]</ce:cross-ref>. Recently, we reported that FF was hydrogenated to FA in the gas phase with higher stability by using ammonia evaporation derived silica supported copper catalyst and impregnation derived ethanolamine modified silica supported copper catalyst [<ce:cross-ref id="crf0018" refid="bib0010">10</ce:cross-ref>,<ce:cross-ref id="crf0019" refid="bib0011">11</ce:cross-ref>]. Besides, ammonia evaporation derived silica supported copper catalysts have been reported to have good performances for ester hydrogenation, CO<ce:inf loc="post">2</ce:inf> hydrogenation and FF hydrogenolysis to MF <ce:cross-refs id="crf0020" refid="bib0012 bib0013 bib0014">[12-14]</ce:cross-refs>. However, the gas phase hydrogenation technology for FF conversion needs more fixed investment in industrial scale production, which limits its application at present. In contrast, the liquid phase hydrogenation is extensively used in plants thanks to its simple process and low fixed input for same scale of capacity.</ce:para>
+               <ce:para id="para0003" view="all">Thus, an efficient silica supported copper catalyst for FF hydrogenation in liquid phase is developed in the present study. The catalyst (Cu/SiO<ce:inf loc="post">2</ce:inf>-FD) is synthesized by ammonia evaporation using freeze drying (FD) technology during the preparation process. The performance of Cu/SiO<ce:inf loc="post">2</ce:inf>-FD is superior to that of conventional ammonia evaporation using oven drying derived catalyst (Cu/SiO<ce:inf loc="post">2</ce:inf>), commercial copper chromite catalyst purchased from Strem Chemicals (CuCr-S) and a commercial copper catalyst supplied by FA production plant (CuSi-C). The promotion effect of freeze drying on the catalytic performance is also explained by various characterization results.</ce:para>
+               <ce:para id="para0004" view="all">The detailed information of materials, catalyst preparation, catalyst characterization, catalyst evaluation, product analyses and some characterization results are described in Supporting information.</ce:para>
+               <ce:para id="para0005" view="all">
+                  <ce:cross-ref id="crf0022" refid="fig0001">Fig. 1</ce:cross-ref>b shows the FF hydrogenation performances over the Cu/SiO<ce:inf loc="post">2</ce:inf>, Cu/SiO<ce:inf loc="post">2</ce:inf>-FD and reference commercial catalysts. The selectivity to FA is nearly 100% in all cases. The Cu/SiO<ce:inf loc="post">2</ce:inf>-FD exhibits higher FA yield at 80 °C, 100 °C and 120 °C compared to Cu/SiO<ce:inf loc="post">2</ce:inf>. And the activity of Cu/SiO<ce:inf loc="post">2</ce:inf>-FD is much higher than that of commercial CuCr-S catalyst and CuSi-C catalyst. For the commercial CuSi-C catalyst on the equal copper amount of Cu/SiO<ce:inf loc="post">2</ce:inf>-FD, its performance as that marked as CuSi-C-2 is considerably far inferior to that of the Cu/SiO<ce:inf loc="post">2</ce:inf>-FD. Take the Cu/SiO<ce:inf loc="post">2</ce:inf> and Cu/SiO<ce:inf loc="post">2</ce:inf>-FD for comparison (<ce:cross-ref id="crf0023" refid="fig0001">Fig. 1</ce:cross-ref>c), FA yield increases with the increasing of reaction time, the Cu/SiO<ce:inf loc="post">2</ce:inf>-FD performs better than Cu/SiO<ce:inf loc="post">2</ce:inf> in all cases. The performance of Cu/SiO<ce:inf loc="post">2</ce:inf>-FD catalyst is also superior to majority of the copper based catalysts that were reported previously (Table S1 in Supporting information). And the composition of the Cu/SiO<ce:inf loc="post">2</ce:inf>-FD is much simpler compared to the reference catalysts summarized in Table S1. The stability of the Cu/SiO<ce:inf loc="post">2</ce:inf>-FD was further assessed using a trickle bed reactor in continuous mode, and the result is depicted in <ce:cross-ref id="crf0024" refid="fig0001">Fig. 1</ce:cross-ref>d. There is no obvious decrease of FF conversion and FA selectivity during the whole reaction (~550 h). The above results demonstrate that the silica supported copper catalyst prepared by ammonia evaporation using freeze drying as drying technology (Cu/SiO<ce:inf loc="post">2</ce:inf>-FD) is more active than that of the silica supported copper catalyst synthesized by ammonia evaporation using conventional oven drying (Cu/SiO<ce:inf loc="post">2</ce:inf>), commercial CuCr-S catalyst and commercial CuSi-C catalyst supplied by a FA plant. And the Cu/SiO<ce:inf loc="post">2</ce:inf>-FD catalyst shows excellent stability. Therefore, the freeze drying promotes the performance of silica supported copper catalyst for FF hydrogenation in liquid phase.</ce:para>
+               <ce:para id="para0006" view="all">To better explain the remarkable effect of freezing drying on the performance, detailed physicochemical characterizations were conducted. As shown in Fig. S1a (Supporting information), the diffraction peaks at 31.0°, 35.6°, 57.1°, 63.3° and 72.0° are observed for both of the calcined Cu/SiO<ce:inf loc="post">2</ce:inf>-FD and Cu/SiO<ce:inf loc="post">2</ce:inf> samples. These characteristic diffraction peaks correspond to the formation of copper phyllosilicate [<ce:cross-ref id="crf0025" refid="bib0011">11</ce:cross-ref>,<ce:cross-ref id="crf0026" refid="bib0015">15</ce:cross-ref>]. The vibrations of 673 cm<ce:sup loc="post">−1</ce:sup> and 1033 cm<ce:sup loc="post">−1</ce:sup> in fourier transform infrared spectroscopy (FT-IR) spectra (Fig. S1b in Supporting information) of calcined sample verify the existence of copper phyllosilicate [<ce:cross-ref id="crf0027" refid="bib0015">15</ce:cross-ref>,<ce:cross-ref id="crf0028" refid="bib0016">16</ce:cross-ref>]. The existence of copper phyllosilicate is also verified by the transmission electron microscope (TEM) images (Figs. S1c and d in Supporting information), in which the lamellar structure is observed. Based on the results of XRD, FT-IR and TEM, the copper phyllosilicate exists in both of the calcined Cu/SiO<ce:inf loc="post">2</ce:inf> and Cu/SiO<ce:inf loc="post">2</ce:inf>-FD catalysts.</ce:para>
+               <ce:para id="para0007" view="all">As listed in <ce:cross-ref id="crf0029" refid="tbl0001">Table 1</ce:cross-ref>
+                  <ce:float-anchor refid="tbl0001"/>, the copper loading determined by ICP is 17.4 wt% and 17.3 wt% for Cu/SiO<ce:inf loc="post">2</ce:inf> and Cu/SiO<ce:inf loc="post">2</ce:inf>-FD, respectively. The <ce:italic>S</ce:italic>
+                  <ce:inf loc="post">BET</ce:inf>, <ce:italic>V</ce:italic>
+                  <ce:inf loc="post">P</ce:inf> and <ce:italic>D</ce:italic>
+                  <ce:inf loc="post">P</ce:inf> of SiO<ce:inf loc="post">2</ce:inf> support are 190 m<ce:sup loc="post">2</ce:sup>/g, 0.46 cm<ce:sup loc="post">3</ce:sup>/g and 9.4 nm. The <ce:italic>S</ce:italic>
+                  <ce:inf loc="post">BET</ce:inf> and <ce:italic>V</ce:italic>
+                  <ce:inf loc="post">P</ce:inf> of Cu/SiO<ce:inf loc="post">2</ce:inf> increase to 416 m<ce:sup loc="post">2</ce:sup>/g and 0.82 cm<ce:sup loc="post">3</ce:sup>/g. A similar increase was reported for ammonia evaporation derived silica supported copper catalyst that contained copper phyllosilicate [<ce:cross-ref id="crf0030" refid="bib0017">17</ce:cross-ref>,<ce:cross-ref id="crf0031" refid="bib0018">18</ce:cross-ref>]. Surprisingly, the <ce:italic>V</ce:italic>
+                  <ce:inf loc="post">P</ce:inf> and <ce:italic>D</ce:italic>
+                  <ce:inf loc="post">P</ce:inf> of calcined Cu/SiO<ce:inf loc="post">2</ce:inf>-FD are 1.87 cm<ce:sup loc="post">3</ce:sup> and 14.3 nm, which are much higher than that of calcined Cu/SiO<ce:inf loc="post">2</ce:inf>. The <ce:italic>S</ce:italic>
+                  <ce:inf loc="post">BET</ce:inf> (449 m<ce:sup loc="post">2</ce:sup>/g) of Cu/SiO<ce:inf loc="post">2</ce:inf>-FD is a little higher than that of Cu/SiO<ce:inf loc="post">2</ce:inf> as well. The observation means that freeze drying promotes the pore expansion during the preparation. The <ce:italic>S</ce:italic>
+                  <ce:inf loc="post">BET</ce:inf> and <ce:italic>V</ce:italic>
+                  <ce:inf loc="post">P</ce:inf> of fresh Cu/SiO<ce:inf loc="post">2</ce:inf> and Cu/SiO<ce:inf loc="post">2</ce:inf>-FD samples decrease due to the decomposition of phyllosilicate during the reduction <ce:cross-ref id="crf0032" refid="bib0019">[19]</ce:cross-ref>. However, the <ce:italic>V</ce:italic>
+                  <ce:inf loc="post">P</ce:inf> and <ce:italic>D</ce:italic>
+                  <ce:inf loc="post">P</ce:inf> of fresh Cu/SiO<ce:inf loc="post">2</ce:inf>-FD are also higher than that of fresh Cu/SiO<ce:inf loc="post">2</ce:inf>. The higher <ce:italic>V</ce:italic>
+                  <ce:inf loc="post">P</ce:inf> and <ce:italic>D</ce:italic>
+                  <ce:inf loc="post">P</ce:inf> might be beneficial to the mass transfer, which leads to the higher activity. The similar loosely packed platelet structure and higher methane dry reforming performance of freeze dried Ni/MgAlO<ce:inf loc="post">X</ce:inf> catalyst compared to oven dried sample was reported previously <ce:cross-ref id="crf0033" refid="bib0020">[20]</ce:cross-ref>.</ce:para>
+               <ce:para id="para0008" view="all">As shown in <ce:cross-ref id="crf0034" refid="fig0002">Fig. 2</ce:cross-ref>
+                  <ce:float-anchor refid="fig0002"/>a, the diffraction peaks (2<ce:italic>θ</ce:italic> = 43.2° and 50.2°) ascribing to Cu<ce:sup loc="post">0</ce:sup> are observed in the XRD patterns of freshly reduced catalysts <ce:cross-ref id="crf0035" refid="bib0021">[21]</ce:cross-ref>. The average particle size of Cu<ce:sup loc="post">0</ce:sup> determined by Scherrer equation is 4.2 nm and 3.5 nm for Cu/SiO<ce:inf loc="post">2</ce:inf> and Cu/SiO<ce:inf loc="post">2</ce:inf>-FD, respectively. The small average particle size of the copper in Cu/SiO<ce:inf loc="post">2</ce:inf>-FD compared to Cu/SiO<ce:inf loc="post">2</ce:inf> is also verified by particle size distribution histograms (Fig. S2 in Supporting information). Moreover, the copper particles are distributed uniformly on the silica support after reduction (<ce:cross-ref id="crf0036" refid="fig0002">Figs. 2</ce:cross-ref>c and d). From the H<ce:inf loc="post">2</ce:inf>-temperature programmed reduction (H<ce:inf loc="post">2</ce:inf>-TPR) profile (<ce:cross-ref id="crf0037" refid="fig0002">Fig. 2</ce:cross-ref>b), it can be seen that the H<ce:inf loc="post">2</ce:inf> consumption peak of Cu/SiO<ce:inf loc="post">2</ce:inf>-FD is slightly lower than that of Cu/SiO<ce:inf loc="post">2</ce:inf>. This reveals that the calcined Cu/SiO<ce:inf loc="post">2</ce:inf>-FD is easier to reduce than Cu/SiO<ce:inf loc="post">2</ce:inf>, which indicates that freeze drying decreased the size of copper particles <ce:cross-ref id="crf0038" refid="bib0022">[22]</ce:cross-ref>. Accordingly, copper particles with relatively small size were formed in the fresh Cu/SiO<ce:inf loc="post">2</ce:inf>-FD.</ce:para>
+               <ce:para id="para0009" view="all">The Cu 2p and Cu LMM X-ray auger electron spectroscopy (XAES) spectra (Figs. S3A and B in Supporting information) of freshly reduced samples were collected <ce:italic>in-situ</ce:italic> by near ambient pressure X-ray photoelectron spectroscopy (XPS) instrument to analyze the copper state. As listed in Fig. S3A, the peak of Cu 2p<ce:inf loc="post">3/2</ce:inf> at about 932.3 eV and a peak of Cu 2p<ce:inf loc="post">1/2</ce:inf> at around 952.1 eV are observed. These peaks are assigned to Cu<ce:sup loc="post">0</ce:sup> or Cu<ce:sup loc="post">+</ce:sup> species <ce:cross-ref id="crf0039" refid="bib0023">[23]</ce:cross-ref>. The existence of these peaks suggests that the Cu<ce:sup loc="post">+</ce:sup> or Cu<ce:sup loc="post">0</ce:sup> formed during the reduction of calcined samples. Since the Cu 2p binding energy (BE) of Cu<ce:sup loc="post">+</ce:sup> and Cu<ce:sup loc="post">0</ce:sup> are almost identical from XPS spectra, the modified Auger parameter (Table S2 in Supporting information) is used to distinguish the Cu<ce:sup loc="post">+</ce:sup> and Cu<ce:sup loc="post">0</ce:sup> 
+                  <ce:cross-ref id="crf0040" refid="bib0024">[24]</ce:cross-ref>. The modified Auger parameter equal to the sum of the Cu 2p<ce:inf loc="post">3/2</ce:inf> BE and the kinetic energy (KE) of Cu LMM Auger electron. As seen from Table S2, the Cu<ce:sup loc="post">+</ce:sup> content in Cu/SiO<ce:inf loc="post">2</ce:inf>-FD is lower than Cu/SiO<ce:inf loc="post">2</ce:inf>.</ce:para>
+               <ce:para id="para0010" view="all">N<ce:inf loc="post">2</ce:inf>O titration was applied for the measurement of the exposed Cu<ce:sup loc="post">0</ce:sup> sites, the results are listed in <ce:cross-ref id="crf0041" refid="tbl0002">Table 2</ce:cross-ref>
+                  <ce:float-anchor refid="tbl0002"/>. The surface area of metallic copper (<ce:italic>S</ce:italic>
+                  <ce:inf loc="post">Cu</ce:inf>) is 31.9 m<ce:sup loc="post">2</ce:sup>/g and 48.8 m<ce:sup loc="post">2</ce:sup>/g for Cu/SiO<ce:inf loc="post">2</ce:inf> and Cu/SiO<ce:inf loc="post">2</ce:inf>-FD, respectively. The Cu<ce:sup loc="post">0</ce:sup> dispersion (<ce:italic>D</ce:italic>
+                  <ce:inf loc="post">Cu</ce:inf>) of Cu/SiO<ce:inf loc="post">2</ce:inf>-FD is higher than Cu/SiO<ce:inf loc="post">2</ce:inf>. The result reveals that the freeze drying promoted the dispersing of metallic copper. The particle size of metallic copper was calculated based on the N<ce:inf loc="post">2</ce:inf>O titration and XRD patterns. Relative small metallic copper particles were obtained when the freeze drying was used. Besides, the exposed Cu<ce:sup loc="post">+</ce:sup> surface area (<ce:italic>S</ce:italic>
+                  <ce:inf loc="post">Cu<ce:sup loc="post">+</ce:sup>
+                  </ce:inf>) is also calculated based on the Cu<ce:sup loc="post">+</ce:sup> content and <ce:italic>S</ce:italic>
+                  <ce:inf loc="post">Cu</ce:inf>. Higher amount of exposed Cu<ce:sup loc="post">+</ce:sup> sites are also obtained in the Cu/SiO<ce:inf loc="post">2</ce:inf>-FD sample. Then, the higher amount of Cu<ce:sup loc="post">0</ce:sup> sites and higher amount of Cu<ce:sup loc="post">+</ce:sup> sites gave rise to the higher activity of Cu/SiO<ce:inf loc="post">2</ce:inf>-FD.</ce:para>
+               <ce:para id="para0011" view="all">The characterization results of calcined samples (Fig. S1 in Supporting information and <ce:cross-ref id="crf0042" refid="tbl0001">Table 1</ce:cross-ref>) illustrate that the copper phyllosilicate existed in both of Cu/SiO<ce:inf loc="post">2</ce:inf> and Cu/SiO<ce:inf loc="post">2</ce:inf>-FD samples, and the freeze drying promotes the pore expansion. The particles are uniformly distributed in the reduced samples (<ce:cross-ref id="crf0043" refid="fig0002">Fig. 2</ce:cross-ref>). The XRD, TEM, H<ce:inf loc="post">2</ce:inf>-TPR, <ce:italic>in-situ</ce:italic> XPS and N<ce:inf loc="post">2</ce:inf>O titration results (<ce:cross-ref id="crf0044" refid="fig0002">Fig. 2</ce:cross-ref>, Fig. S2, <ce:cross-ref id="crf0045" refid="tbl0002">Table 2</ce:cross-ref> and Table S2) suggest that the application of freeze drying during the preparation process promoted the dispersion of copper. Consequently, a relatively higher metallic copper surface area and Cu<ce:sup loc="post">+</ce:sup> surface area were obtained. The Cu<ce:sup loc="post">0</ce:sup> and Cu<ce:sup loc="post">+</ce:sup> species were resulted from the reduction of highly dispersed CuO and copper phyllosilicate under the moderate conditions, respectively. As stated by the previous studies, the synergistic effect of Cu<ce:sup loc="post">0</ce:sup> and Cu<ce:sup loc="post">+</ce:sup> leads to the conversion of FF to FA <ce:cross-refs id="crf0046" refid="bib0025 bib0026 bib0027">[25-27]</ce:cross-refs>. In detail, H<ce:inf loc="post">2</ce:inf> is adsorbed and activated at the Cu<ce:sup loc="post">0</ce:sup> sites to form active H, the C=O bond in FF molecule is adsorbed at the Cu<ce:sup loc="post">+</ce:sup> site and polarized through the oxygen electron lone pair. The active H attack the adjacent polarized C=O species. Then, the FF is hydrogenated to FA. Thus, the Cu/SiO<ce:inf loc="post">2</ce:inf>-FD exhibits the better performance due to its higher amount of Cu<ce:sup loc="post">0</ce:sup> and Cu<ce:sup loc="post">+</ce:sup> active sites. And the large <ce:italic>V</ce:italic>
+                  <ce:inf loc="post">P</ce:inf> and <ce:italic>D</ce:italic>
+                  <ce:inf loc="post">P</ce:inf> also facilitate the reaction by promoting the mass transfer.</ce:para>
+               <ce:para id="para0012" view="all">In summary, the silica supported copper catalyst prepared by ammonia evaporation using freeze drying technology exhibits the better performance for FF hydrogenation in liquid phase than that of conventional ammonia evaporation using oven drying derived catalyst and representative commercial catalysts. The freeze drying promotes the copper dispersion, which leads to a higher amount of Cu<ce:sup loc="post">0</ce:sup> and Cu<ce:sup loc="post">+</ce:sup> active sites. In addition, the freeze drying also promotes the pore expansion, which boosts the mass transfer. Thus, the Cu/SiO<ce:inf loc="post">2</ce:inf>-FD exhibits the superior performance thanks to its higher number of active sites and developed pore structure.</ce:para>
+            </ce:sections>
+            <ce:conflict-of-interest id="coi0001" view="all">
+               <ce:section-title id="cesectitle0004">Declaration of competing interest</ce:section-title>
+               <ce:para id="para0014" view="all">There are no conflicts of interest to declare.</ce:para>
+            </ce:conflict-of-interest>
+            <ce:acknowledgment id="ack0001" view="all">
+               <ce:section-title id="cesectitle0005">Acknowledgments</ce:section-title>
+               <ce:para id="para0015" view="all">This work was supported by the National Natural Science Foundation of China (Nos. 21721004, 21808217, 21932005), Natural Science Foundation of Liaoning Province (No. 2020-MS-018), Dalian Young Star of Science and Technology Project (No. 2020RQ023) and Dalian Institute of Chemical Physics (Nos. DICP ZZBS201812, DICPI201936).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="sec0001" view="compact-standard">
+                  <ce:section-title id="cesectitle9001">Supplementary materials</ce:section-title>
+                  <ce:para id="para0001a" view="all">Supplementary material associated with this article can be found, in the online version, at doi:<ce:inter-ref id="interref0001" xlink:href="https://doi.org/10.1016/j.cclet.2021.06.082" xlink:type="simple">10.1016/j.cclet.2021.06.082</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section id="sec0002" view="extended">
+                  <ce:label>Appendix</ce:label>
+                  <ce:section-title id="cesectitle9002">Supplementary materials</ce:section-title>
+                  <ce:para id="para0013a" view="all">
+                     <ce:display>
+                        <ce:e-component id="ecom0001">
+                           <ce:alt-text id="alt0005" role="short">Image, application 1</ce:alt-text>
+                           <ce:link id="celink0003" locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S1001841721004824/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebibl1" view="all">
+               <ce:section-title id="cesectitle0006">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec1" view="all">
+                  <ce:bib-reference id="bib0001">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0001">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>221</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>119837</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0001">H. Du, X. Ma, M. Jiang, P. Yan, Z.C. Zhang, Energy221 (2021) 119837.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0002">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0002">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Tong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Green Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3092</sb:first-page>
+                              <sb:last-page>3100</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0002">Z. Zhang, X. Tong, H. Zhang, Y. Li, Green Chem. 20 (2018) 3092-3100.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0003">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0003">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Lafleur</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Jarvis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Renew. Sust. Energ. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>663</sb:first-page>
+                              <sb:last-page>676</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0003">K. Yan, G. Wu, T. Lafleur, C. Jarvis, Renew. Sust. Energ. Rev.38 (2014) 663-676.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0004">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0004">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Gong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chin. Chem. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1617</sb:first-page>
+                              <sb:last-page>1620</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0004">W. Gong, C. Chen, H. Wang, et al., Chin. Chem. Lett.29 (2018) 1617-1620.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Rodríguez-Padrón</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>C. Len, Catalysts</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>796</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0005">Y. Wang, D. Zhao, D. Rodríguez-Padrón, C. Len, Catalysts9 (2019) 796.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0006">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0006">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Mariscal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Maireles-Torres</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ojeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Sádaba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.López</ce:given-name>
+                                 <ce:surname>Granados</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energ. Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1144</sb:first-page>
+                              <sb:last-page>1189</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0006">R. Mariscal, P. Maireles-Torres, M. Ojeda, I. Sádaba, M. López Granados, Energ. Environ. Sci.9 (2016) 1144-1189.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0007">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0007">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Gahtori</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Catal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>500</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>111339</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0007">G. Singh, L. Singh, J. Gahtori, et al., Mol. Catal.500 (2021) 111339.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0008">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0008">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Nakagawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Tamura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tomishige</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Catal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2655</sb:first-page>
+                              <sb:last-page>2668</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0008">Y. Nakagawa, M. Tamura, K. Tomishige, ACS Catal.3 (2013) 2655-2668.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0009">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0009">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Thongratkaew</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Luadthong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kiatphuengporn</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Catal. Today</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>367</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>177</sb:first-page>
+                              <sb:last-page>188</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0009">S. Thongratkaew, C. Luadthong, S. Kiatphuengporn, et al., Catal. Today367 (2021) 177-188.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Catal. A: Gen.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>598</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>117598</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0010">H. Du, X. Ma, M. Jiang, P. Yan, Z.C. Zhang, Appl. Catal. A: Gen.598 (2020) 117598.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0011">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0011">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel Process. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>193</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2019</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>221</sb:first-page>
+                              <sb:last-page>231</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0011">H. Du, X. Ma, P. Yan, et al., Fuel Process. Technol.193 (2019) 221-231.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0012">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0012">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Catal. A: Gen.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>539</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>59</sb:first-page>
+                              <sb:last-page>69</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0012">Y. Zhao, Y. Zhang, Y. Wang, et al., Appl. Catal. A: Gen.539 (2017) 59-69.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0013">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0013">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Catal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4255</sb:first-page>
+                              <sb:last-page>4259</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0013">Z. Wang, Z. Xu, S. Peng, et al., ACS Catal. 5 (2015) 4255-4259.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0014">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref0014">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Catal. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>767</sb:first-page>
+                              <sb:last-page>779</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0014">F. Dong, G. Ding, H. Zheng, et al., Catal. Sci. Technol.6 (2016) 767-779.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>ACS</ce:given-name>
+                                 <ce:surname>Sustain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>12096</sb:first-page>
+                              <sb:last-page>12103</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0015">B. Li, L. Li, H. Sun, C. Zhao, ACS Sustain. Chem. Eng.6 (2018) 12096-12103.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0016">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0016">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>313</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>759</sb:first-page>
+                              <sb:last-page>768</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0016">Y. Zhao, S. Li, Y. Wang, et al., Chem. Eng. J.313 (2017) 759-768.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0017">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0017">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Catal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>383</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>254</sb:first-page>
+                              <sb:last-page>263</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0017">X. Wang, M. Chen, X. Chen, et al., J. Catal.383 (2020) 254-263.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0018">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0018">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Duan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ACS Catal.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2738</sb:first-page>
+                              <sb:last-page>2749</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0018">X. Zheng, H. Lin, J. Zheng, X. Duan, Y. Yuan, ACS Catal. 3 (2013) 2738-2749.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0019">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0019">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Catal. Today</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>365</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>265</sb:first-page>
+                              <sb:last-page>273</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0019">H. Du, X. Ma, M. Jiang, et al., Catal. Today365 (2021) 265-273.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Saqline</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Catal. B: Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>275</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2020</sb:date>
+                           </sb:issue>
+                           <sb:article-number>119109</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0020">J. Huang, Y. Yan, S. Saqline, W. Liu, B. Liu, Appl. Catal. B: Environ.275 (2020) 119109.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0021">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0021">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>RSC Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25185</sb:first-page>
+                              <sb:last-page>25190</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0021">Z. Wang, Z. Xu, M. Zhang, et al., RSC Adv. 6 (2016) 25185-25190.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0022">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0022">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>290</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>120083</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0022">C. Chen, L. Lin, R. Ye, et al., Fuel290 (2021) 120083.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0023">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0023">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Phys. Chem. C</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>119</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13758</sb:first-page>
+                              <sb:last-page>13766</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0023">J. Zheng, J. Zhou, H. Lin, et al., J. Phys. Chem. C119 (2015) 13758-13766.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0024">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0024">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chin. Chem. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1150</sb:first-page>
+                              <sb:last-page>1154</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0024">X. Han, Q. Zhang, F. Feng, et al. Chin. Chem. Lett.26 (2015) 1150-1154.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Wojcieszak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Dumeignil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Marceau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Royer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11023</sb:first-page>
+                              <sb:last-page>11117</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0025">S. Chen, R. Wojcieszak, F. Dumeignil, E. Marceau, S. Royer, Chem. Rev.118 (2018) 11023-11117.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0026">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0026">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Catal. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2018</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3428</sb:first-page>
+                              <sb:last-page>3449</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0026">R. Ye, L. Lin, Q. Li, et al., Catal. Sci. Technol.8 (2018) 3428-3449.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0027">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref0027">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Hao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Catal. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>151</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2021</sb:date>
+                           </sb:issue>
+                           <sb:article-number>106266</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="srctxt0027">F. Hao, J. Zheng, S. He, et al., Catal. Commun.151 (2021) 106266.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
